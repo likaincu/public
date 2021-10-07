@@ -63,7 +63,7 @@ btr_root_block_get_no_latch(
 			
 	}
 	
-	return NULL //如果传入锁类型，直接返回空指针
+	return NULL; //如果传入锁类型，直接返回空指针
 
 }
 
