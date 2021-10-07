@@ -59,7 +59,7 @@ btr_root_block_get_no_latch(
  
 	 
 
-	return(block);
+	return(block);  
 			
 	}
 	
